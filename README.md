@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📖 I'm a student at faculty of engineering at Cairo university.
+- 💻 I'm interested in backend development and database design.
+- 💬 Reach me out: 
+  <a href="https://www.linkedin.com/in/mohamed-adel-973621135/"> <img width="20px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg"/> </a>
+  <a href="mailto:mouhammedadel1999@gmail.com"> <img width="20px" src="https://image.flaticon.com/icons/svg/732/732200.svg" /> </a>
