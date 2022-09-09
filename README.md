@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img alt="cover image" src="https://media.giphy.com/media/lp3GUtG2waC88/giphy.gif"/>
- </p>
-
 ### Hi there I'm Mohamed Adel👋
 
 - 📖 Student at faculty of engineering at Cairo university.
